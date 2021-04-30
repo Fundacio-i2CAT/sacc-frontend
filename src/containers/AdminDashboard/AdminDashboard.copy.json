@@ -1,0 +1,33 @@
+{
+  "common": {
+    "registerButton": "Registrar",
+    "ignoreButton": "Ignorar",
+    "profilePicture": "Imatge de perfil de l'usuari",
+    "detailButton": "Detalls"
+  },
+  "navigation": {
+    "endUserButton": "Usuaris finals",
+    "institutionButton": "Administradors de institucions de recerca",
+    "endUserRegisteredButton": "Usuaris finals registrats",
+    "institutionRegisteredButton": "Administradors de institucions de recerca registrats"
+  },
+  "endUser": {
+    "noRequests": "No hi ha peticions d'accés com a usuari final",
+    "requestsHeader": "Sol·licituds d'usuaris finals"
+  },
+  "institution": {
+    "noRequests": "No hi ha peticions d'accés com a administrador de institució de recerca",
+    "requestsHeader": "Sol·licituds d'administradors de institucions de recerca"
+  },
+  "endUserRegistered": {
+    "noRequests": "No hi ha usuaris finals registrats",
+    "requestsHeader": "Usuaris finals registrats"
+  },
+  "institutionRegistered": {
+    "noRequests": "No hi ha administradors de institucions de recerca registrats",
+    "requestsHeader": "Administradors de institució de recerca registrats"
+  },
+  "imgAlts": {
+    "noRequests": "Imatge per a il·lustrar que no hi ha sol·licituds pendents."
+  }
+}

@@ -1,0 +1,17 @@
+.userInfoContainer {
+  display: flex;
+  align-items: center;
+  position: relative;
+  top: 6px;
+  .label {
+    color: #fff;
+    margin-right: .3em;
+  }
+  .badge {
+    background-color: #f3ad32;
+    border-radius: 3px;
+    color: #344;
+    padding: .3em .7em;
+    margin-right: 1.3em;
+  }
+}

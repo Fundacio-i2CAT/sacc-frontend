@@ -1,0 +1,74 @@
+$subtitle-color: #799;
+$left-col-background-color: #fafafa;
+$right-col-background-color: #34250d;
+
+.leftCol {
+    background-color: $left-col-background-color;
+    .leftContainer {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        justify-content: center;
+        width: 100%;
+        .subtitle {
+            margin: 11px 0 0 0;
+            color: $subtitle-color;
+            font-size: 1.3em;
+        }
+        .loginButtonStyle {
+            width: 277px;
+        }
+        .singleClickSvg {
+            margin-bottom: 55px;
+            transform: rotate(33deg);
+            width: 100px;
+        }
+    }
+}
+
+.rightContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: $right-col-background-color;
+    overflow: hidden;
+    .backgroundImage {
+        position: absolute;
+        height: 100vh;
+        top: 0;
+        left: -333px;
+        opacity: .22;
+        animation: zoomIn 66s infinite ease-in-out;
+    }
+    .parafContainer {
+        display: flex;
+        align-items: center;
+        padding: .5em 3.3em;
+        margin-bottom: 2.2em;
+        z-index: 1;
+    }
+    .icons {
+        color: rgb(119, 215, 104);
+        font-size: 1.9em;
+        margin-right: 1em;
+    }
+    .texts {
+        color: #fff;
+        font-size: 1.3em;
+        line-height: 1.5em;
+    }
+}
+
+// animations
+@keyframes zoomIn {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.5) rotate(22deg);
+    }
+    100% {
+        transform: scale(1);
+    }
+}

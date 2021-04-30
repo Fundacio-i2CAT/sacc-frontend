@@ -1,0 +1,25 @@
+{
+  "title": "Les meves dades...",
+  "form": {
+    "placeholders": {
+      "lastName": "Els meus cognoms són...",
+      "firstName": "El meu nom és...",
+      "email": "exemple@blockchain.io",
+      "phone": "El meu número de telèfon és...",
+      "cardId": "1234-5678-9",
+      "url": "http://www.exemple.cat/blockchain"
+    },
+    "labels": {
+      "lastName": "Cognoms",
+      "firstName": "Nom",
+      "email": "Email",
+      "phone": "Telèfon",
+      "cardId": "Identificador de targeta",
+      "url": "Enllaç a dades"
+    }
+  },
+  "buttons": {
+    "accept": "Registrar",
+    "back": "Enrere"
+  }
+}

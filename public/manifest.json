@@ -1,0 +1,20 @@
+{
+  "short_name": "HDA",
+  "name": "HDA",
+  "icons": [
+    {
+      "src": "sc.jpg",
+      "sizes": "400x400",
+      "type": "image/jpg"
+    },
+    {
+      "src": "lsc.png",
+      "sizes": "793x558",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

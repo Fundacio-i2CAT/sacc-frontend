@@ -1,0 +1,13 @@
+{
+  "awaitText": "Estem tramitant la seva sol·licitud d'accés. Siusplau, esperi la confirmació",
+  "cancelButton": "Cancel·lar sol·licitud",
+  "registerRequest": {
+    "title": "Les meves dades",
+    "institution": "Institució:",
+    "name": "Nom:",
+    "surnames": "Cognoms:",
+    "email": "Email:",
+    "phone": "Telèfon:",
+    "cardId": "Identificador de targeta:"
+  }
+}

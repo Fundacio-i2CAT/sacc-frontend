@@ -1,0 +1,34 @@
+.container {
+  background: rgb(166,104,44);
+  background: radial-gradient(circle, #a6682c 0%, #a2001e6b 55%, #233ea2 100%);
+}
+.mask {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #f3ad3287;
+  opacity: 0.77;
+}
+.containerContent {
+  background-color: #fff;
+  opacity: .9;
+}
+.sectionContainer {
+  background-color: #fff;
+  transition: .44s background-color ease-in-out;
+  &.requested:hover {
+    background-color: #ec363607;
+  }
+  &.granted:hover {
+    background-color: #f9ffe855;
+  }
+  .title {
+    padding: 1em 2em;
+    font-size: .7em;
+    margin-top: 3em;
+    color: #a04370;
+    min-height: 111px;
+  }
+}

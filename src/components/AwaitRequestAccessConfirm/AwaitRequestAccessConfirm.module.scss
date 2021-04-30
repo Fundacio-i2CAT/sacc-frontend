@@ -1,0 +1,29 @@
+.awaitRequestAccessCard {
+    width: 555px;
+    top: -3em;
+}
+.hourGlassImage {
+    width: 144px;
+    filter: contrast(.7);
+    animation: rotateHourglass 66s infinite ease-in-out;
+};
+.alertSuccess {
+    width: 480px;
+};
+.cancelButton {
+    width: 480px;
+    height: 48px;
+    font-weight: bold
+}
+.fieldLabel {
+    font-weight: bold;
+}
+
+@keyframes rotateHourglass {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

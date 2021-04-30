@@ -1,0 +1,25 @@
+{
+  "passwordProvider": {
+    "modalHeader": "Introdueixi la contrasenya del fitxer .zip",
+    "form": {
+      "label": "Contrasenya"
+    }
+  },
+  "passwordGetter": {
+    "modalHeader": "Introdueixi la seva clau privada",
+    "form": {
+      "label": "Clau privada"
+    },
+    "password": "Contrasenya",
+    "incorrectKey": "Clau privada incorrecte"
+  },
+  "ipfsContingency": {
+    "encryptedData": "Dades encriptades"
+  },
+  "closeButton": "Tancar",
+  "confirmButton": "Confirmar",
+  "info": {
+    "url": "Enllaç a dades",
+    "link": "Clicar per a descarregar-les"
+  }
+}

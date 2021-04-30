@@ -1,0 +1,44 @@
+{
+  "navigation": {
+    "requestPermission": "Sol·licitar",
+    "summary": "Resum",
+    "viewGranted": "Disponibles",
+    "viewRevoked": "No disponibles",
+    "viewPending": "Pendents",
+    "viewRejected": "Rebutjades"
+  },
+  "requestPermission": {
+    "title": "Descriu el projecte per obrir una campanya de donació de dades",
+    "currently": "Nombre total d'usuaris final disposats a oferir les seves dades",
+    "acceptButton": "Sol·licitar",
+    "success": "Sol·licitut/s enviada/es correctament",
+    "projectTitlePlaceholder": "Nom del projecte",
+    "projectDescriptionPlaceholder": "Descripció del projecte"
+  },
+  "granted": {
+    "title": "Usuaris final que actualment conceideixen accés a les seves dades",
+    "none": "Cap usuari final ha concedit accés a les seves dades",
+    "getLinkButton": "Mostrar enllaç",
+    "getFilePassword": "Obtenir contrasenya dels arxius",
+    "getEncryptedData": "Obtenir dades encriptades"
+  },
+  "revoked": {
+    "title": "Usuaris final que han revocat l'accés a les seves dades",
+    "none": "Cap usuari final ha revocat accés a les seves dades"
+  },
+  "pending": {
+    "title": "Usuaris final que tenen sol·licituts d'accés pendents a les seves dades",
+    "none": "Cap usuari final té sol·licituts d'accés pendents a les seves dades"
+  },
+  "rejected": {
+    "title": "Usuaris final que han rebutjat l'accés a les seves dades",
+    "none": "Cap usuari final ha rebutjat accés a les seves dades"
+  },
+  "summary": {
+    "title": "Ratio de peticions de accés per projecte",
+    "none": "Encara no s'ha creat cap projecte"
+  },
+  "topics": {
+    "title": "Nombre d'usuaris final per tòpic"
+  }
+}

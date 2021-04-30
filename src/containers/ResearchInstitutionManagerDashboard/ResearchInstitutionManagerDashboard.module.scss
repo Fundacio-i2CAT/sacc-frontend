@@ -1,0 +1,15 @@
+$number-of-patients-width: 3em;
+
+.container {
+  background: rgb(166, 104, 44);
+  background: radial-gradient(circle, #a6682c 0%, #a2001e6b 55%, #233ea2 100%);
+  .numberOfEndUsers {
+    background: #233ea2;
+    color: #fff;
+    border-radius: $number-of-patients-width;
+    width: $number-of-patients-width;
+    height: $number-of-patients-width;
+    font-size: 2em;
+    font-weight: bold;
+  }
+}

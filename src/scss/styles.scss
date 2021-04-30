@@ -1,0 +1,9 @@
+$navbar-height: 60px;
+
+.full-height-container {
+  min-height: calc(100vh - #{$navbar-height})
+}
+
+.pointer {
+  cursor: pointer;
+}

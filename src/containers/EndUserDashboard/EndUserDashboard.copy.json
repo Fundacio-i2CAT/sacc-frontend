@@ -1,0 +1,16 @@
+{
+  "application": {
+    "title": "Sol·licituds d'accés als meus registres mèdics",
+    "noRequests": "No hi ha sol·licituts d'accés als teus registres mèdics",
+    "listItemAccept": "Acceptar",
+    "listItemDecline": "Rebutjar"
+  },
+  "granted": {
+    "title": "Les següents institucions de recerca tenen accés als meus registres",
+    "emptyText": "Actualment cap institució de recerca te accés als teus registres mèdics",
+    "listItemRevoke": "Revocar"
+  },
+  "imgAlts": {
+    "noRequests": "Imatge per a il·lustrar que no hi ha sol·licituds pendents."
+  }
+}

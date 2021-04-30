@@ -1,0 +1,17 @@
+.empty {
+  animation: bounceSize 7s ease-in-out infinite;
+}
+
+
+// animations
+@keyframes bounceSize {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

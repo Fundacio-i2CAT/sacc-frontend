@@ -1,0 +1,14 @@
+{
+  "details": "Detalls",
+  "endUserRequestTitle": "Usuari pendent d'aprovació",
+  "institutionRequestTitle": "Institució de recerca pendent d'aprovació",
+  "endUserTitle": "Usuari",
+  "institutionTitle": "Institució de recerca",
+  "firstName": "Nom",
+  "surnames": "Cognoms",
+  "phone": "Telèfon",
+  "email": "Correu electrònic",
+  "address": "Adreça Ethereum",
+  "profilePicture": "Imatge de perfil de l'usuari",
+  "close": "Tancar"
+}
